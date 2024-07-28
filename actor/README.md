@@ -4,7 +4,7 @@ This provides an overview of the abstractions and concepts used in the actor pac
 
 ## Engine
 
-The Hollywood engine is the core of the actor model. It is responsible for spawning actors, sending messages
+The Zeptagon Actor engine is the core of the actor model. It is responsible for spawning actors, sending messages
 to actors and stopping actors. The engine is also responsible for the lifecycle of the actors.
 
 ## Receiver / Actor
