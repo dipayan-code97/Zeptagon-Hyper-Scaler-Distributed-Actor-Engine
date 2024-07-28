@@ -4,7 +4,7 @@ import (
 	"log/slog"
 	"reflect"
 
-	"github.com/anthdm/hollywood/actor"
+	"github.com/dipayan-code97/actor"
 	"golang.org/x/exp/maps"
 )
 
