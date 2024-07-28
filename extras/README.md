@@ -1,7 +1,7 @@
 ## Zeptagon-Hyper-Scaler-Distributed-Actor-Engine Blazingly fast, low latency actors for Golang
 
-Zeptagon is an ULTRA fast actor engine build for speed and low-latency applications in the backend domain for game servers,
-advertising brokers, trading engines, etc...
+Zeptagon is an ULTRA fast actor engine build for high speed, high performance and low-latency applications 
+in the backend domain for game servers, advertising brokers, trading engines, etc...
 Zeptagon provides the capacity of handling **10 million messages in under 1 second**. as a Distributed Actor Engine
 
 ## What is the actor model?
