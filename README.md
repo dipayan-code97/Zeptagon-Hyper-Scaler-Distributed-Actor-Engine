@@ -301,5 +301,4 @@ make test
 
 # License
 
-Zeptagon is licensed under the MIT licence.
-"# Zeptagon-Hyper-Scaler-Distributed-Actor-Engine" 
+Zeptagon is licensed under the MIT licence. 
