@@ -1,8 +1,14 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/Zeptagon-Hyper-Scaler-Distributed-Actor-Engine)](https://goreportcard.com/report/github.com/Zeptagon-Hyper-Scaler Distributed-Actor-Engine/dipayan-code97)
+![example workflow](https://github.com/dipayan-code97/Zeptagon-Hyper-Scaler-Distributed-Actor-Engine/actions/workflows/build.yml/badge.svg?branch=master)
+<a href="https://discord.gg/gdwXmXYNTh">
+	<img src="https://discordapp.com/api/guilds/1025692014903316490/widget.png?style=shield" alt="Discord Shield"/>
+</a>
+
 ## Zeptagon-Hyper-Scaler-Distributed-Actor-Engine Blazingly fast, low latency actors for Golang
 
 Zeptagon is an ULTRA fast actor engine build for speed and low-latency applications in the backend domain for game servers,
 advertising brokers, trading engines, etc...
-Zeptagon provides the capacity of handling **10 million messages in under 1 second**. as a Distributed Actor Model Engine
+Zeptagon provides the capacity of handling **10 million messages in under 1 second**. as a Distributed Actor Engine
 
 ## What is the actor model?
 
